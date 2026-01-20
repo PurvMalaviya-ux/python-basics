@@ -6,7 +6,7 @@ Name=str(input("Enter Your Name :"))
 print("                        ")
 
 
-Password = str(input("Enter Your Password"))
+Password = str(input("Enter Your Password :"))
 print("                        ")
 
 
