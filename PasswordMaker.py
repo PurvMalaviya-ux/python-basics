@@ -2,7 +2,7 @@ print("Hello it's Program To Check Your Password is Strong OR Weak")
 print("                        ")
 
 
-Name=str(input("Enter Your Name"))
+Name=str(input("Enter Your Name :"))
 print("                        ")
 
 
